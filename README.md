@@ -1,7 +1,7 @@
 # SAMUEL EMMANUEL KIMARO 
 # WEEK_8_DATABASE_PLP
 
-## Question ONE
+## QUESTION ONE
 ### Build a Complete Database Management System
 **Objective**
 
