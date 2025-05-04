@@ -49,5 +49,5 @@ VALUES
 INSERT INTO patrons (name, email, phone, address, registered_date)
 VALUES
 ('John Smith', 'john.smith@example.com', '555-123-4567', '123 Main St, Anytown', '2023-01-15'),
-('Jane Kamau', 'jane.Kamau@example.com', '555-987-6543', '456 Oak Ave, Somecity', '2023-02-20'),
+('Jane Doe', 'jane.doe@example.com', '555-987-6543', '456 Oak Ave, Somecity', '2023-02-20'),
 ('Bob Johnson', 'bob.johnson@example.com', '555-456-7890', '789 Pine Rd, Otherplace', '2023-03-10');
