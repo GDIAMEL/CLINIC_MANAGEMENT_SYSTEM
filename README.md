@@ -1,8 +1,8 @@
 # SAMUEL EMMANUEL KIMARO 
 # WEEK_8_DATABASE_PLP
 
-## QUESTION ONE
-### Build a Complete Database Management System
+# QUESTION ONE
+## Build a Complete Database Management System
 **Objective**
 
 Design and implement a full-featured database using only MySQL.
@@ -26,8 +26,8 @@ A single .sql file containing your:
 
 
 
-## QUESTION TWO
-### Create a Simple CRUD API Using MySQL + Programming
+# QUESTION TWO
+## Create a Simple CRUD API Using MySQL + Programming
 
 **Objective**
 Combine your MySQL skills with a programming language (Python or JavaScript) to create a working CRUD API.
@@ -118,8 +118,7 @@ library-management-api/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/library-management-api.git
-   cd library-management-api
+   git clone https://github.com/GDIAMEL/WEEK_8_DATABASE.git
    ```
 
 2. Create a virtual environment:
